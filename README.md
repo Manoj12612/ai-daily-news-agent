@@ -39,7 +39,7 @@ An AI-powered news aggregator that fetches, summarizes, and delivers daily news 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/news-agent.git
+git clone https://github.com/Manoj12612/ai-daily-news-agent.git
 cd news-agent
 ```
 
